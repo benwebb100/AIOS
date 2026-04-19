@@ -9,9 +9,10 @@ context/          — Live business context (what the business IS right now)
   About.md        — Business model, tech stack, pricing, roles
   GTM.md          — Go-to-market strategy, targeting, ads, sales process
 
-reference/        — Reference material and playbooks
+reference/        — Reference material, playbooks, and decisions
   Master-Playbook.md    — The full AIOS Agency playbook (constitution)
   Original-Brainstorm.md — Original brainstorm that kicked this off
+  Council-Verdict-Dashboard-Timing.md — Council verdict on dashboard build timing
 ```
 
 ## How to Use

@@ -17,24 +17,38 @@ The differentiator: this isn't another chatbot or Zapier workflow. It's a persis
 ### Selling Outputs, Not Architecture
 Clients don't buy "AIOS" — they buy outputs that change their lives. The architecture is what makes the outputs possible, but the pitch is always about results: hours saved, tasks automated, revenue unlocked, problems avoided. Frame the AIOS as the foundation that makes everything else possible, then sell the specific outputs they care about.
 
+### The Executive vs Operations Split
+Sell the AIOS as two separate value propositions:
+
+1. **Executive side (personal):** Change the owner's life. "Never miss your kid's basketball game again." Personal productivity — email, scheduling, decision support, daily brief. This is the emotional sale.
+2. **Operations side (company):** Change the business. Reporting, team workflows, client management, financial visibility, process automation. This is the ROI sale — and where the bigger money is.
+
+Start with the executive side (easier sell, personal connection), expand to operations as trust builds. This also creates a natural upsell path: owner → team leads → full company.
+
 ---
 
 ## Acquisition Strategy
 
-### Phase 1: In-Person + Warm Outreach (Primary Channel)
+### Our Context (Adapt, Don't Copy)
+Eric Bledsoe's model (in-person networking, bank masterminds, business lunches) works because he's 50+ with 25 years of business relationships in the US. We're 20-21 in Australia. We adapt the *principles* — trust-first, relationship-first selling, don't hide behind ads — to channels that fit us:
 
-> **Why this changed:** Market intel (Eric Bledsoe, $200K+/mo) shows in-person networking dramatically outperforms cold digital channels for high-ticket AIOS sales. Zero ads, zero cold outreach — 100% in-person + referrals. At this price point with zero social proof, trust is the bottleneck, and trust is built in person.
+### Phase 1: Warm Outreach + Content (Primary Channel)
 
-**Tactics:**
-- Attend local business events: entrepreneur meetups, bank masterminds, coworking events, industry lunches
-- Join a mastermind or book study group (Eric signed 4 clients from one 20-person group over 6 weeks)
-- Speak at local business events — position as "the AI guy"
-- University/education connections if available
-- Warm LinkedIn outreach to local business owners (not cold DMs — engage with their content first)
+**In-person (adapted for our position):**
+- Coworking spaces — full of founders and solopreneurs who are exactly the ICP
+- Startup/founder meetups — exist in every AU city, skew younger
+- Local business events, entrepreneurship meetups
+- Even casual: gyms, cafes, social settings where you meet business owners
 
-**The Goal:** Become known as the AI person in your local network. When someone says "I've got a guy," you've won.
+**Digital warm outreach:**
+- LinkedIn content — a 20-year-old showing a live AIOS setup is pattern-interrupting. People share it *because* it's unexpected. This is an age advantage, not a disadvantage.
+- LinkedIn DMs — not cold. Engage with their content first, add value, then offer a conversation.
+- Online communities — Discord servers, Slack groups, Reddit, Facebook groups for business owners
+- 5 warm DMs/day to local business owners: "Saw your business, curious if you've looked at AI for [specific thing they'd care about]"
 
-**Key Principle:** "Loudest sound on the quietest channel" — everyone is spamming email and DMs. Show up in person where the signal-to-noise ratio is massively in your favour.
+**The first client:** Probably someone Ben or Bailey already knows. A friend's parent who runs a business. A local business you frequent. Someone in your extended circle. List these people out before doing anything else.
+
+**Key Principle:** Don't hide behind ads as an excuse not to have conversations. The principle from Eric isn't "go to lunches" — it's "every sale starts with a human relationship."
 
 ### Phase 1b: Meta Ads (Secondary — Add After First 3 Clients)
 Meta Ads move to a supporting role, not the primary channel. Launch ads AFTER you have:
@@ -62,7 +76,7 @@ Eric averages **5-6 referrals per sale.** This is the compounding flywheel that 
 - Deliver genuinely life-changing results → clients become evangelists
 - Every client is a potential source of 5+ introductions
 - Referral incentive: $500 credit or discount for each referred client who signs up
-- Ask for referrals explicitly during monthly check-ins
+- Ask for referrals explicitly during check-ins
 
 ### Phase 3: Partnerships (Month 3+)
 - Business coaches / consultants who want to offer this to their clients
@@ -73,23 +87,24 @@ Eric averages **5-6 referrals per sale.** This is the compounding flywheel that 
 
 ## Sales Process (Audit-First Model)
 
-> **Why this changed:** The original "free discovery call → proposal" model leaves money on the table and doesn't filter clients. The paid audit model (validated by Eric Bledsoe) generates revenue during discovery, builds deep context, and makes the close effortless.
+> **Why this changed:** The original "free discovery call → proposal" model leaves money on the table and doesn't filter clients. The paid audit model (validated by Eric Bledsoe) generates revenue during discovery, builds deep context, and makes the close effortless. Even at $250 (vs Eric's $1,500/conversation), the psychology is different — the client is invested.
 
 ### The Flow
-1. **Meet in person** — lunch, event, introduction. Listen to their problems. Don't pitch.
-2. **Offer a paid audit** — "I'd like to come in and understand your business before recommending anything. You wouldn't trust a surgeon without diagnostics."
-   - Price TBD (Bailey to decide: $500–1,500 for founding clients, scale up later)
-   - Covers: stakeholder interviews (60-90 min each), workflow documentation, opportunity mapping
-3. **Conduct the audit** — interview owner + key stakeholders, record everything, process with AI
+1. **Have a conversation** — in person, LinkedIn, event, introduction. Listen to their problems. Don't pitch.
+2. **Offer a paid audit** — "I'd like to understand your business before recommending anything. You wouldn't trust a surgeon without diagnostics."
+   - Founding price: $250–500 for the whole audit (scale up as credibility builds)
+   - Covers: stakeholder interviews, workflow documentation, opportunity mapping
+   - Even $250 changes the dynamic: $0 = shopping around, $250 = committed and filtered
+3. **Conduct the audit** — interview owner + key people, record everything, process with AI
    - Create a "cookbook" document: plain English summary on top, technical detail below
    - Map current state → future state → what to automate (prioritised by risk and value)
 4. **Present findings + live demo** — handful of slides, then show it working live
    - The "puppy dog close" — let them hold it, see it, interact with it
-   - Leave the demo accessible so they can play with it after you leave
+   - Leave the demo accessible so they can play with it after
    - By this point, they're already sold — the presentation is a formality
-5. **Propose architecture + modules** — AIOS foundation + specific outputs they need
-   - Executive side: personal productivity for the owner
-   - Operations side: company-level systems (if applicable)
+5. **Propose architecture + modules** — frame as Executive (personal) + Operations (company)
+   - Executive: what changes for YOU personally
+   - Operations: what changes for YOUR BUSINESS
    - Toggle on/off modular features — they choose what they want
 6. **Install + train** — set up Claude Code context, deliver via Claude desktop app, train the team
 7. **Ongoing** — modular add-ons as needs emerge ("you'll be driving and think 'I wonder if it can do this' — call me, the answer is yes")
@@ -111,23 +126,22 @@ Use price to qualify clients. If they baulk, they're risk/price averse and won't
 ## Pricing Strategy (Under Review)
 
 ### Current Thinking
-The original playbook pricing ($1,500 setup + $1K/mo) is likely too low based on market intel. Options:
+The original playbook pricing ($1,500 setup + $1K/mo) is likely too low based on market intel, but Eric's US pricing ($10K first seat) is too high for our AU position with no track record. The right answer is somewhere in between — start modest, raise as credibility builds.
 
-**Option A — Adjusted Founding Pricing:**
+**Founding Pricing (First 3 Clients):**
+- Paid audit: $250–500
+- Architecture setup: $2,000–3,000
+- Monthly retainer: $1,000–1,500/mo (or modular add-ons priced individually)
+- Total year 1 value: ~$14-21K per client
+
+**Standard Pricing (After 3 Clients):**
 - Paid audit: $500–1,000
 - Architecture setup: $3,000–5,000
-- Monthly retainer: $1,000–1,500/mo
-- Total year 1 value: ~$15-23K per client
+- Per-seat (teams): $2,000–2,500 per additional employee
+- Monthly retainer: $1,500–2,500/mo
+- Total year 1 value: ~$21-35K per client
 
-**Option B — High-Ticket Upfront (Eric's Model):**
-- Paid audit: $1,000–1,500 per stakeholder interview
-- Architecture: $5,000–10,000 (first seat)
-- Additional seats: $2,500 each
-- Modular add-ons: priced individually
-- Retainer optional for ongoing ops
-- Total year 1 value: $10-50K+ per client
-
-**Decision needed before launch.** Bailey should pick a model, test it on the first 2-3 clients, and adjust based on response.
+**Decision needed before launch.** Pick a model, test it on the first 2-3 clients, adjust based on response.
 
 ---
 
@@ -146,6 +160,18 @@ Use the 80/20 rule — constantly cut the bottom 20% of clients. Eventually a ma
 
 ---
 
+## Critical Rule: Context Engineering > Custom Software
+
+Bailey's technical skills (Supabase, Render, Next.js, APIs) are insurance, NOT the product. The product is the context and the outputs.
+
+**The temptation:** build a custom dashboard, a hosted app, a client portal — because it feels like progress and plays to Bailey's strengths.
+
+**The reality:** Eric does $200K/mo building zero custom software. He installs Claude with killer context, trains people to use it, and sells modular outputs. The value is 100% in context engineering.
+
+**The rule:** Don't build custom software unless a paying client explicitly asks for it AND it can't be done with Claude's native capabilities. Every hour coding is an hour not spent on the thing that creates client value.
+
+---
+
 ## Key Metrics to Track
 - Discovery conversations per week (in-person + warm outreach)
 - Audit conversion rate (conversation → paid audit)
@@ -159,22 +185,25 @@ Use the 80/20 rule — constantly cut the bottom 20% of clients. Eventually a ma
 
 ## Sprint Plan (Updated)
 
-### Sprint 0: Boot Camp (Days 1-2)
-- [ ] Build your own AIOS — practice what you preach
+### Sprint 0: Boot Camp (Days 1-2) — CRITICAL
+- [ ] Build your own AIOS — practice what you preach, run it for your own agency
+- [ ] Get your own daily brief running, automations firing, real personal stories of impact
+- [ ] "Not only am I the president, I'm also a client" — personal conviction is the #1 sales tool
 - [ ] Practice stakeholder interviews with a friend/family member
 - [ ] Practice end-to-end audit → demo → proposal on a real or simulated business
-- [ ] Get comfortable with Claude Cowork (desktop app) — this is what clients will use
+- [ ] Get comfortable with Claude desktop app (Cowork) — this is what clients will use
 
 ### Sprint 1: Go-to-Market (Days 3-7)
-- [ ] Identify 3-5 local business events, masterminds, or networking groups to attend this month
-- [ ] Build a simple landing page (Carrd/Framer) — for credibility, not as primary lead gen
+- [ ] List out everyone Ben and Bailey already know who runs a business — who is client #1?
+- [ ] Identify 3-5 local business events, coworking spaces, or meetups to attend this month
+- [ ] Set up LinkedIn profile to reflect AIOS positioning, start posting content
+- [ ] Build a simple landing page (Carrd/Framer) — for credibility, not primary lead gen
 - [ ] Set up Calendly for audit bookings
 - [ ] Create audit proposal template (SOW for paid discovery)
-- [ ] Write and practise the audit pitch ("You wouldn't trust a surgeon without diagnostics")
-- [ ] Optional: set up LinkedIn profile to reflect AIOS positioning
+- [ ] Write and practise the audit pitch
 
 ### Sprint 2: First Clients (Days 8-30)
-- [ ] Attend events, have conversations, book audits
+- [ ] Have conversations — events, warm outreach, existing network
 - [ ] Close first 1-2 paid audits
 - [ ] Deliver audit → presentation → architecture sale
 - [ ] Document everything — what worked, what was hard, what to improve

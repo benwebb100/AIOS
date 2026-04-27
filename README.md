@@ -13,6 +13,7 @@ reference/        — Reference material, playbooks, and decisions
   Master-Playbook.md    — The full AIOS Agency playbook (constitution)
   Original-Brainstorm.md — Original brainstorm that kicked this off
   Council-Verdict-Dashboard-Timing.md — Council verdict on dashboard build timing
+  Webinar-Intel-Eric-Bledsoe-April-2026.md — Key intel from Liam Otley AIOS webinar
 ```
 
 ## How to Use

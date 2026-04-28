@@ -1,4 +1,4 @@
-# Strategy — AIOS Agency
+# Strategy — AutoOS
 
 ## North Star
 **5 clients on retainer at $2,500/mo average = $12,500/mo recurring**, within 6 months of launch.

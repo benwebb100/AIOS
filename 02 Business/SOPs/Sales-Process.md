@@ -18,7 +18,7 @@ Populate this template from the discovery transcript:
 ```
 PROPOSAL FOR: [Business Name]
 DATE: [Date]
-PREPARED BY: Bailey — AIOS Agency
+PREPARED BY: Bailey — AutoOS
 
 WHAT I HEARD
 - [Pain point 1]

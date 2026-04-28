@@ -1,4 +1,4 @@
-# Team — AIOS Agency
+# Team — AutoOS
 
 The operating team is two: a human managing director and an AI developer. That's the whole company.
 

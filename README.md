@@ -1,6 +1,6 @@
-# AIOS Agency
+# AutoOS
 
-The operating workspace for the AIOS Agency — Bailey's own AI Operating System, mirroring exactly what we install for clients.
+The operating workspace for **AutoOS** — the agency that installs AI Operating Systems (AIOS) for business owners. This is Bailey's own AIOS, mirroring exactly what we install for clients.
 
 ## Repo Structure
 

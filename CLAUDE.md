@@ -1,7 +1,7 @@
-# AIOS Agency — Workspace Context
+# AutoOS — Workspace Context
 
 ## What This Repo Is
-The operating workspace for the AIOS Agency. It serves two purposes simultaneously:
+The operating workspace for **AutoOS** — the agency that installs AI Operating Systems (AIOS) for business owners. This repo serves two purposes simultaneously:
 1. **Live business operations** — sales, delivery, client work, strategy
 2. **Demo / sandbox** — this workspace mirrors the AIOS we install for clients, so we dogfood every workflow before it ships
 

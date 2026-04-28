@@ -1,7 +1,7 @@
-# Brand — AIOS Agency
+# Brand — AutoOS
 
 ## Name
-**TBD.** Working name: "AIOS Agency." Decide before launching ads.
+**AutoOS.** The product we install is the AIOS (AI Operating System); the agency that installs it is AutoOS. Use "AutoOS" for the company, "AIOS" / "AI operating system" for the thing.
 
 ## Positioning
 We install AI operating systems for business owners. Not chatbots, not Zapier flows — a persistent AI brain that knows the whole business and runs it with the owner.

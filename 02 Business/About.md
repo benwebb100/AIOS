@@ -1,7 +1,7 @@
-# About — AIOS Agency
+# About — AutoOS
 
 ## What This Is
-An AI Operating System (AIOS) setup and management agency run by Bailey, with Ben advising on strategy. The business installs AI operating systems for business owners — contextualising Claude Code with their entire business, connecting their tools, and building automations that free up their bandwidth.
+**AutoOS** is an AI Operating System (AIOS) setup and management agency run by Bailey, with Ben advising on strategy. The business installs AI operating systems for business owners — contextualising Claude Code with their entire business, connecting their tools, and building automations that free up their bandwidth.
 
 ## Business Model
 - **Setup fee:** $1,500–2,000 (first 3 clients at founding pricing, then $3,000–5,000)

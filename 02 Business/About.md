@@ -1,4 +1,4 @@
-# AIOS Agency — Project Context
+# About — AIOS Agency
 
 ## What This Is
 An AI Operating System (AIOS) setup and management agency run by Bailey, with Ben advising on strategy. The business installs AI operating systems for business owners — contextualising Claude Code with their entire business, connecting their tools, and building automations that free up their bandwidth.
@@ -24,6 +24,6 @@ Bailey was originally building a dental Voice AI agency (forked from SalesPro AI
 - **Render** — if clients need anything hosted
 - **GitHub** — version control for any code/config
 
-## Target
-- 5 clients at $2,500/mo avg = $12,500/mo recurring within 6 months
-- First 3 clients within 60 days of launch
+---
+
+For goals, KPIs, and acquisition plan see `Strategy.md`. For positioning and voice see `Brand.md`. For pipeline see `Clients.md`.

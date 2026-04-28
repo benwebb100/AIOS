@@ -1,22 +1,21 @@
 # AIOS Agency
 
-Shared context repo for the AIOS Agency business. Ben (strategy/advisor) and Bailey (operator/delivery) both work from this repo so our Claude Code instances stay in sync.
+The operating workspace for the AIOS Agency — Bailey's own AI Operating System, mirroring exactly what we install for clients.
 
 ## Repo Structure
 
 ```
-context/          — Live business context (what the business IS right now)
-  About.md        — Business model, tech stack, pricing, roles
-  GTM.md          — Go-to-market strategy, targeting, ads, sales process
-
-reference/        — Reference material, playbooks, and decisions
-  Master-Playbook.md    — The full AIOS Agency playbook (constitution)
-  Original-Brainstorm.md — Original brainstorm that kicked this off
-  Council-Verdict-Dashboard-Timing.md — Council verdict on dashboard build timing
+01 Inbox/         — capture zone
+02 Business/      — business context (About, Team, Clients, Brand, Strategy, SOPs/)
+03 Meetings/      — meeting notes and transcripts
+04 Archive/       — retired material
+reference/        — playbooks, brainstorms, decisions
 ```
 
-## How to Use
+See `CLAUDE.md` for the full workspace conventions and how Claude Code should load context.
 
-- **context/** docs are the source of truth for current state. Update these as things change.
-- **reference/** docs are more stable — playbooks, frameworks, templates.
-- Both of us should pull before starting work and push any updates so context stays shared.
+## Workflow
+- Pull before starting work, push updates so the workspace stays current
+- Update `02 Business/` docs in place as the business evolves
+- New meeting notes → `03 Meetings/` named `YYYY-MM-DD - [Party] - [Topic].md`
+- Capture loose notes in `01 Inbox/`, file them within ~2 weeks

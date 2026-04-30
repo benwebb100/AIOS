@@ -15,7 +15,7 @@ Founding-tier slots remaining: **1 of 3** (assuming Jason and Lou took 2 foundin
 
 | Name | Source | Stage | Last Contact | Next Step |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Duncan (plumbing co.) | Warm — Bailey's network | lead | — | Open conversation; run 3-question discovery (commercial/residential split, last handover walk-through, sample O&M) |
 
 Stages: `lead` → `discovery booked` → `discovery done` → `proposal sent` → `closed-won` / `closed-lost`
 

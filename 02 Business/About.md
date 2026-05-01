@@ -9,6 +9,8 @@
 - **Delivery:** Bailey handles all sales, discovery, setup, and ongoing builds
 - **Ben's role:** Strategic advisor, playbook designer, async coaching (not hands-on delivery)
 
+> **Pricing under review.** Current numbers are floor figures from the original playbook. Post-Bledsoe webinar intel (see `reference/Webinar-Intel-Eric-Bledsoe-April-2026.md`), the standard tier may rise as track record builds. Anchor reference point: Eric Bledsoe charges US$10K first seat + US$2,500 per additional seat — too high for AU founding tier without case studies, but informs the ceiling. Per-seat pricing for multi-staff clients held as a data point; revisit when first multi-staff prospect (e.g. Duncan) clarifies team size.
+
 ## Origin
 Bailey was originally building a dental Voice AI agency (forked from SalesPro AI). Pivoted to AIOS because:
 1. No distribution partner for Voice AI (Ben has Steve/ScanWise for gyms — Bailey had no equivalent)
@@ -23,6 +25,17 @@ Bailey was originally building a dental Voice AI agency (forked from SalesPro AI
 - **Supabase** — if clients need dashboards or data layers
 - **Render** — if clients need anything hosted
 - **GitHub** — version control for any code/config
+
+## Critical Rules
+
+### Context engineering > custom software
+Bailey's technical skills (Supabase, Render, Next.js, APIs) are **insurance, not the product.** The product is context engineering and the outputs the AIOS produces.
+
+The temptation: build a custom dashboard, hosted app, or client portal — because it feels like progress and plays to Bailey's strengths.
+
+The reality: Eric Bledsoe does US$200K+/mo with **zero custom software** — just Claude with tight context, trained users, and modular outputs. Every hour coding is an hour not spent on the thing that creates client value.
+
+**The rule:** Don't build custom software unless a paying client explicitly asks for it AND it can't be done with Claude's native capabilities.
 
 ---
 

@@ -56,13 +56,26 @@ Runs alongside Phase 2 once we have live clients.
 4. **FOMO** — "Your competitors are setting up AI systems that run their businesses. You're still using ChatGPT for email drafts."
 5. **Demo** — Screen recording of a real AIOS in action.
 
-## Sales Process (high-level)
-1. **Phase 1:** Warm outreach → conversation → discovery call. **Phase 2+:** Ad → Landing Page → Calendly booking.
-2. Discovery call (30 min) — see `SOPs/Discovery-Call.md`
-3. Same-day proposal — see `SOPs/Sales-Process.md`
-4. Setup session (2–4 hrs) — Layers 0–2 installed
-5. Week 1 daily check-ins
-6. Monthly retainer kicks in — 1–2 automations / month + ongoing
+## Sales Process (audit-first model)
+
+> **Replaces** the original "free 30-min discovery → same-day proposal" flow. Adopted post-Bledsoe synthesis: a paid audit generates revenue during discovery, builds deeper context, and makes the close effortless.
+
+1. **Initial conversation** — warm outreach, event, intro, or DM. Listen, don't pitch. See `SOPs/Discovery-Call.md` (now framed as the pre-audit conversation).
+2. **Offer paid audit** — "I'd like to understand your business before recommending anything. You wouldn't trust a surgeon without diagnostics." Founding price $250–500. See `SOPs/Paid-Audit.md`.
+3. **Conduct audit** — stakeholder interviews, recorded, processed into a "cookbook" doc (plain English top + technical detail bottom).
+4. **Presentation + live demo** — handful of slides, then show the AIOS working live with their data. Puppy-dog close: leave them access to play with it.
+5. **Architecture proposal + modules** — frame as Executive (personal) + Operations (company). See split below.
+6. **Setup session** (2–4 hrs) — Layers 0–2 installed.
+7. **Week 1 daily check-ins**, then **monthly retainer** kicks in.
+
+### Executive vs Operations sales motion
+
+Sell the AIOS as two separate value propositions. Most clients buy both, but they buy them for different reasons.
+
+- **Executive side (personal).** Changes the owner's life. Personal productivity — email triage, scheduling, decision support, daily brief. Emotional sale ("never miss your kid's basketball game"). Easier first close.
+- **Operations side (company).** Changes the business. Reporting, team workflows, client management, financial visibility, process automation. ROI sale — bigger money lives here.
+
+Natural upsell path: owner → team leads → full company. Start where the trust is highest (the owner), expand outward.
 
 ## Vertical Strategy
 **Don't pick a niche yet.** Take the first 5 clients from wherever they come. The niche will reveal itself based on which clients get the most value and which ones Bailey enjoys working with. Master Playbook Part 7 has the tier ranking.

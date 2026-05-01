@@ -1,7 +1,7 @@
-# SOP — Discovery Call
+# SOP — Initial Conversation (pre-audit)
 
-> 30-minute call. Goal: understand the business well enough to scope the engagement and identify the first high-impact automation.
-> Source: Master Playbook Part 3 + Appendix A.
+> 30-minute conversation. Goal: understand the business well enough to **offer a paid audit** — not to scope the full engagement and not to pitch the AIOS.
+> Source: Master Playbook Part 3 + Appendix A. Reframed post-audit-first adoption (May 2026): this is the conversation that *leads into* the paid audit, not the discovery itself. The audit replaces the old free-discovery scoping pass.
 
 ## Before the Call
 - Look up their business — website, LinkedIn, social
@@ -31,17 +31,19 @@
 - "What's the main thing standing between here and there?"
 - "If we freed up 15 hrs/week, what would you spend it on?"
 
-**Close (5 min)**
+**Close (5 min) — offer the audit, not a proposal**
 - Summarise pain + tools + goals back to them
-- "Here's what I'd recommend for the setup..."
-- "I'll send you a proposal today."
+- "Before I recommend anything specific, I'd want to actually understand your business properly — interview your key people, map workflows, find the highest-leverage opportunities. That's the audit. It produces a document you can use even if we never work together again."
+- "Investment is $[250–500] for the audit. Most clients get more value from the audit alone than they expected to get from the whole engagement."
+- "Want me to send a one-pager with the scope?"
 
 ## After the Call
 1. Save the recording + transcript into `03 Meetings/`
-2. Feed transcript to Claude Code: *"Discovery call transcript. Extract business context, tools, pain points, recommended first automations."*
-3. Draft proposal using `SOPs/Sales-Process.md` template
-4. Send proposal **same day**
-5. Update `Clients.md` — move them to `proposal sent` stage
+2. Feed transcript to Claude Code: *"Pre-audit conversation transcript. Extract business context, tools, pain points, possible audit scope."*
+3. Send paid-audit proposal **same day** — see `SOPs/Paid-Audit.md`
+4. Update `Clients.md` — move them to `audit proposed` stage
 
 ## Filter
 If the prospect just wants "ChatGPT but for my business" — they're not the right client. AIOS is for people who want systems, not a toy.
+
+If they baulk at the audit price ($250–500), they will baulk at every later price point. Treat price as a qualifying filter, not a number to negotiate down.

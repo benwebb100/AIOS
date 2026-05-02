@@ -28,4 +28,34 @@ Other people sell point solutions (a chatbot, an automation, an agent). We insta
 - They are the bottleneck in their own business
 - Age 28–55, AU initially, expanding to UK/US
 
+## Visual Identity
+
+**Direction:** Developer-tools / infrastructure aesthetic. Lineage: Linear, Vercel, Cursor, Railway, Notion. Operator-grade, type-driven, monochromatic with one signal accent. Deliberately *not* "AI agency" (no purple/blue gradients, no robot/brain iconography, no stock photos of diverse teams in glass offices).
+
+### Logo
+Wordmark only: `autoos`, all lowercase, JetBrains Mono Bold. Optional small amber filled square `▮` before the wordmark — reads as cursor / status indicator. The square doubles as the favicon and ad-grid avatar.
+
+### Palette
+| Role | Hex | Usage |
+|---|---|---|
+| Primary | `#0A0F0E` | Warm near-black. Type and primary surfaces. |
+| Background | `#F5F2ED` | Warm off-white (paper, not stark). Default canvas. |
+| Accent | `#FF6B1A` | Signal amber. One element per slide / page max. |
+| Muted | `#A8A29A` | Soft grey. Secondary type, dividers. |
+
+### Typography
+- **Display/headlines:** Inter (Söhne if budget allows). Geometric sans, tight tracking, big weight contrast.
+- **Body:** Inter Regular.
+- **Accent (numbers, stats, status labels):** JetBrains Mono or Space Mono.
+
+### Layout principles
+- Generous white space — every slide / section breathes.
+- One idea per surface.
+- Numbers and stats are huge (60–100pt monospace).
+- Grid-based, deliberate, almost editorial.
+- No drop shadows, no glassmorphism, no gradients, no AI clichés.
+
+### Reference looks
+linear.app, vercel.com, cursor.com, railway.app, notion.so. Look at the homepage, pricing page, and changelog of any of these.
+
 See `Strategy.md` for full GTM motion, ad angles, and acquisition plan.

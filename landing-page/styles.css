@@ -233,20 +233,47 @@ body {
 }
 .exploded-stack {
   width: 100%;
-  max-width: 380px;
+  max-width: 460px;
   height: auto;
   display: block;
   filter: drop-shadow(0 30px 40px rgba(10, 15, 14, 0.12));
 }
+
+/* Tile entry animation: starts stacked (translateY 0), expands to its
+   target position after a brief pause. The keyframe defines only the
+   `from` value; the `to` defaults to the element's normal CSS transform. */
 .exploded-stack .tile {
-  transition: transform 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
-  transform-origin: center;
-  transform-box: fill-box;
+  transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
+  animation: stack-explode 0.95s cubic-bezier(0.16, 1, 0.3, 1) 0.7s backwards;
 }
-.exploded-stack:hover .tile:nth-child(2) { transform: translateY(-6px); }
-.exploded-stack:hover .tile:nth-child(3) { transform: translateY(-12px); }
-.exploded-stack:hover .tile:nth-child(4) { transform: translateY(-18px); }
-.exploded-stack:hover .tile:nth-child(5) { transform: translateY(-24px); }
+.exploded-stack .tile:nth-child(1) { transform: translateY(0); }
+.exploded-stack .tile:nth-child(2) { transform: translateY(-62px); }
+.exploded-stack .tile:nth-child(3) { transform: translateY(-124px); }
+.exploded-stack .tile:nth-child(4) { transform: translateY(-186px); }
+.exploded-stack .tile:nth-child(5) { transform: translateY(-248px); }
+
+@keyframes stack-explode {
+  from { transform: translateY(0); }
+}
+
+/* Hover spread (kicks in after the entry animation finishes) */
+.exploded-stack:hover .tile:nth-child(2) { transform: translateY(-68px); }
+.exploded-stack:hover .tile:nth-child(3) { transform: translateY(-136px); }
+.exploded-stack:hover .tile:nth-child(4) { transform: translateY(-204px); }
+.exploded-stack:hover .tile:nth-child(5) { transform: translateY(-272px); }
+
+/* Subtle layer labels */
+.tile-label {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  fill: var(--color-muted);
+  letter-spacing: 0.04em;
+}
+
+/* Respect reduced-motion: skip the entry animation, render in final state */
+@media (prefers-reduced-motion: reduce) {
+  .exploded-stack .tile { animation: none; }
+}
 
 /* ----- Tile grid ----- */
 .tile-grid {

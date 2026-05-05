@@ -198,8 +198,8 @@ body {
 }
 .hero-grid {
   display: grid;
-  grid-template-columns: 1.1fr 0.9fr;
-  gap: clamp(2.5rem, 6vw, 5rem);
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(2rem, 5vw, 4rem);
   align-items: center;
 }
 .hero-headline {
@@ -233,7 +233,7 @@ body {
 }
 .exploded-stack {
   width: 100%;
-  max-width: 460px;
+  max-width: 600px;
   height: auto;
   display: block;
   filter: drop-shadow(0 30px 40px rgba(10, 15, 14, 0.12));
@@ -489,7 +489,7 @@ body {
     grid-template-columns: 1fr;
     gap: 3rem;
   }
-  .exploded-stack { max-width: 300px; }
+  .exploded-stack { max-width: 420px; }
   .hero-headline { max-width: 16ch; }
 }
 

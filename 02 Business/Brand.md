@@ -33,7 +33,7 @@ Other people sell point solutions (a chatbot, an automation, an agent). We insta
 **Direction:** Developer-tools / infrastructure aesthetic. Lineage: Linear, Vercel, Cursor, Railway, Notion. Operator-grade, type-driven, monochromatic with one signal accent. Deliberately *not* "AI agency" (no purple/blue gradients, no robot/brain iconography, no stock photos of diverse teams in glass offices).
 
 ### Logo
-Wordmark only: `autoos`, all lowercase, JetBrains Mono Bold. Optional small amber filled square `▮` before the wordmark — reads as cursor / status indicator. The square doubles as the favicon and ad-grid avatar.
+Wordmark only: `AutoOS`, set in JetBrains Mono Bold — capital A, lowercase u-t-o, capital O-S. Optional small amber filled square `▮` before the wordmark — reads as cursor / status indicator. The square doubles as the favicon and ad-grid avatar.
 
 ### Palette
 | Role | Hex | Usage |

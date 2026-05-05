@@ -58,7 +58,7 @@ Business owners $200K–$5M revenue, mid-conversation in the discovery → audit
 You are designing a pitch deck for AutoOS, an agency that installs AI operating systems for business owners. Output: 11 slides, 16:9, type-driven, premium-feeling, operator-grade.
 
 # Brand
-**Name:** AutoOS. Wordmark is `autoos` — all lowercase, set in JetBrains Mono Bold. Optional small amber filled square `▮` before the wordmark.
+**Name:** AutoOS. Wordmark is `AutoOS` — set in JetBrains Mono Bold, capital A + lowercase u-t-o + capital O-S. Optional small amber filled square `▮` before the wordmark.
 
 **Voice:** Direct, operator-to-operator, no AI hype-speak. Write like you've already solved the problem.
 
@@ -85,7 +85,7 @@ You are designing a pitch deck for AutoOS, an agency that installs AI operating 
 # Slides
 
 ## 1 — Cover
-- Wordmark `autoos` centered, large
+- Wordmark `AutoOS` centered, large
 - Beneath: "We install AI operating systems for businesses."
 - Bottom-left small mono caption: `[Founder Name] · [Date]`
 

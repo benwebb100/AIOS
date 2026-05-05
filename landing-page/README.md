@@ -1,4 +1,4 @@
-# autoos — landing page
+# AutoOS — landing page
 
 Static landing page for autoos.com.au. Single HTML file + single CSS file. No build step, no JS framework. Drop the folder onto Render as a static site.
 
